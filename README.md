@@ -1,4 +1,6 @@
-<h1>Davi dos Santos</h1>
+<h1>Davi dos Santos
+  <p>Engenharia de Software</p>
+</h1>
 - Cursando Engenharia de Software, 1° Período.
 <!---
 DavizinS/DavizinS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
