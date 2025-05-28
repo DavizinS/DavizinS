@@ -1,4 +1,4 @@
-## Davi dos Santos, 21y.
+## Davi dos Santos
 
 
 <div align="center">
