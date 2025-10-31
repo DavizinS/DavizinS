@@ -1,12 +1,10 @@
-## Davi dos Santos
-
-
 <div align="center">
   <h1>
     Davi dos Santos
   </h1>
   <p>
-    Desenvolvedor do site <strong>EncontraVagas.RIO</strong>
+    Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, 5° Período.
+    <br>Desenvolvedor do site <strong>EncontraVagas.RIO</strong>
   </p>
 </div>
     
