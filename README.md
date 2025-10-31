@@ -2,9 +2,12 @@
 
 
 <div align="center">
-  <a href="https://github.com/DavizinS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DavizinS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavizinS&layout=compact&langs_count=7&theme=dark"/>
+  <h1>
+    Davi dos Santos
+  </h1>
+  <p>
+    Desenvolvedor do site <strong>EncontraVagas.RIO</strong>
+  </p>
 </div>
     
 <div> 
